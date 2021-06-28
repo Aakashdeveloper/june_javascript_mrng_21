@@ -105,3 +105,30 @@ parseFloat(b)
 10
 parseFloat(c)
 10
+
+
+
+var a = "10.11"
+var b = "20.33"
+a+b
+"10.1120.33"
+parseInt("10.1120.33")
+10
+parseFloat("10.1120.33")
+10.112
+
+var b = "20.5645467454"
+parseFloat(b)
+20.5645467454
+var b = "10.1120.33"
+parseFloat(b)
+10.112
+var b = "10.1125.33"
+parseFloat(b)
+10.1125
+
+var b = "10.112544.88"
+parseFloat(b)
+10.112544
+Number(b)
+NaN
