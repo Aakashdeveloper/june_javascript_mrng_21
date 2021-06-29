@@ -8,17 +8,18 @@ Ecma 5
 Ecma 6
 Ecma 7
 
+
 > DataTypes
 > variable
 > Operations
 > String literals
-//////////////////
 > String Operations
+//////////////////
 > Math
-
 > localstorage
 > sessionStorage
 > cookies
+
 > let, const
 > github 
 > condition
@@ -49,6 +50,7 @@ Ecma 7
 > Es6
     > classes
 
+> Intro HTml/Css
 > DoM
 
 > Calc
