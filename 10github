@@ -1,0 +1,34 @@
+https://git-scm.com/downloads
+
+>>>>First Time from New folder<<<<<<<<<       
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/testgit.git
+git push -u origin master
+
+////////////////////////////////
+git status 
+
+git add filename    
+git commit -m "comment"
+git push 
+
+git pull 
+
+git branch 
+
+//New branch
+git checkout -b branchname
+
+//switch branch
+git checkout branchname
+
+//push to branch     
+git push -u origin branchname
+
+
+>> git fetch origin feature/test
+
+>>> first time
+git clone https://github.com/Aakashdeveloper/testgit
