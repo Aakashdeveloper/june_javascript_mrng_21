@@ -8,7 +8,6 @@ Ecma 5
 Ecma 6
 Ecma 7
 
-
 > DataTypes
 > variable
 > Operations
@@ -18,14 +17,13 @@ Ecma 7
 > localstorage
 > sessionStorage
 > cookies
-//////////////////
 > let, const
 > github 
-
 > condition
 > if else
 > ternery Operations
 > Date
+//////////////////
 > switch
 > array
 > loops
@@ -90,3 +88,10 @@ i am having had dinner
 
 
 v8 engine 
+
+
+functions
+if less 
+loop 
+array 
+object 
