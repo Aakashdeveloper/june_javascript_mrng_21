@@ -132,3 +132,7 @@ parseFloat(b)
 10.112544
 Number(b)
 NaN
+
+var a = NaN
+typeof(a)
+"number"
