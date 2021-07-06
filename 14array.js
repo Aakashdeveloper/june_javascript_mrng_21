@@ -120,3 +120,48 @@ city.indexOf('London')
 4
 city.indexOf('Nice')
 0
+
+var a = "hii"
+var b = ["Hii"]
+Array.isArray(a)
+false
+Array.isArray(b)
+true
+
+var city = ["Nice", "Delhi", "Paris", "Edinberg", "London", "Mumbai", "Dubai"]
+city.sort()
+(7) ["Delhi", "Dubai", "Edinberg", "London", "Mumbai", "Nice", "Paris"]
+city.reverse()
+(7) ["Paris", "Nice", "Mumbai", "London", "Edinberg", "Dubai", "Delhi"]
+
+var random = ["Nice",5, "delhi",false, "Paris", "edinberg",2,1,true, "London", "mumbai",'zurich',"Dubai"]
+random.sort()
+[1, 2, 5, "Dubai", "London", "Nice", "Paris", "delhi", "edinberg", false, "mumbai", true, "zurich"]
+
+[number, capital letter, small letter which includes boolean as well]
+
+
+var city = ["Nice", "Delhi", ['Red','Yellow','Green'], "London", ['Bmw','Audi','Merc',['React','Node','JavaScript'],'Skoda'], "Dubai"]
+
+city[1]
+"Delhi"
+city[2]
+(3) ["Red", "Yellow", "Green"]
+city[2][0]
+"Red"
+city[3]
+"London"
+city[4][2]
+"Merc"
+city[4][3]
+(3) ["React", "Node", "JavaScript"]
+city[4][3][0]
+"React"
+
+var city = ["Nice", "Delhi", ['Red','Yellow','Green'], "London", ['Bmw','Audi','Merc',['React','Node','JavaScript'],'Skoda'], "Dubai"]
+
+city.flat()
+["Nice", "Delhi", "Red", "Yellow", "Green", "London", "Bmw", "Audi", "Merc", Array(3), "Skoda", "Dubai"]
+
+city.flat(2)
+["Nice", "Delhi", "Red", "Yellow", "Green", "London", "Bmw", "Audi", "Merc", "React", "Node", "JavaScript", "Skoda", "Dubai"]

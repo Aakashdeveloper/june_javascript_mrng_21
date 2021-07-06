@@ -24,10 +24,9 @@ Ecma 7
 > ternery Operations
 > Date
 > switch
-//////////////////
 > array
 > loops
-
+//////////////////
 > Functions
 > Rest
 > spread
@@ -38,7 +37,9 @@ Ecma 7
 > Clousers
 > Hoisting
 
+> object 
 > JSON
+
 > Es6
     > Transpile
     > import export
