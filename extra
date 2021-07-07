@@ -26,11 +26,11 @@ Ecma 7
 > switch
 > array
 > loops
-//////////////////
-> Functions
+> destructure
 > Rest
 > spread
-
+//////////////////
+> Functions
 > Es6
     > maps,filter
 > regex
