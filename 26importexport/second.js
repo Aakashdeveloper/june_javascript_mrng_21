@@ -1,5 +1,7 @@
 //Es5
-let myObj = require('./first');
+//let myObj = require('./first');
+//es6
+import myObj from './first';
 
 //
 console.log(myObj.user);

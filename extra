@@ -37,17 +37,16 @@ Ecma 7
 > Hoisting
 > object 
 > JSON
-//////////////////
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
 > this
-> Prototypes
 > Es6
     > classes
-
+//////////////////
+> Prototypes
 > Intro HTml/Css/bootstrap
 > DoM
 
@@ -95,3 +94,21 @@ if less
 loop 
 array 
 object 
+
+
+//////////////////
+package.json
+//////////////////
+> name , version ,description,
+> packages
+> scripts
+
+//////////////////
+step to generate package.json
+//////////////////
+** Node Just must be installed
+> npm init -y
+
+//////install package//////
+
+npm i @babel/core @babel/register @babel/preset-env

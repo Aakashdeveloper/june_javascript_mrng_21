@@ -17,4 +17,6 @@ dbObj.dbQuery = {
 }
 
 //Es5
-module.exports = dbObj
+//module.exports = dbObj
+//Es6
+export default dbObj;
