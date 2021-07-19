@@ -47,17 +47,19 @@ Ecma 7
     > classes
 > Prototypes
 > Intro HTml/Css/bootstrap
-//////////////////
 > DoM
 > Calc
+//////////////////
+> Form validation
+> Event
+
 > currenyConvertor
 > promis
 > async await
 > Geolocation
 > screen
-> Form validation
-> Event
 > dark/light mode
+
 > Dynamic DropDown
 > Progress bar
 > Call/Apply
@@ -65,6 +67,7 @@ Ecma 7
 > set timeout
 > debouncing
 > sets
+
 > Baisc Jquery
 > Weather application
 > ajax
