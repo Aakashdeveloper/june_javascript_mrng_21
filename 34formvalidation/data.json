@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "firstname": "JOhn",
+      "email": "j@j.com",
+      "password": "12345678",
+      "cpassword": "12345678",
+      "exp": "4",
+      "id": 1
+    },
+    {
+      "firstname": "Bhumika",
+      "email": "bhumika@gmail.com",
+      "password": "6464656465",
+      "cpassword": "6464656465",
+      "exp": "5",
+      "id": 2
+    }
+  ]
+}

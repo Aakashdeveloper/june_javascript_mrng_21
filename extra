@@ -114,3 +114,11 @@ step to generate package.json
 //////install package//////
 
 npm i @babel/core @babel/register @babel/preset-env
+
+
+dummy api
+> open cmd as administrator
+> npm i -g json-server
+
+> json-server --watch data.json --port 7800
+
